@@ -1,0 +1,11 @@
+E:\Laba-3\dd\dd\bin\Debug\netcoreapp2.0\dd.deps.json
+E:\Laba-3\dd\dd\bin\Debug\netcoreapp2.0\dd.runtimeconfig.json
+E:\Laba-3\dd\dd\bin\Debug\netcoreapp2.0\dd.runtimeconfig.dev.json
+E:\Laba-3\dd\dd\bin\Debug\netcoreapp2.0\dd.dll
+E:\Laba-3\dd\dd\bin\Debug\netcoreapp2.0\dd.pdb
+E:\Laba-3\dd\dd\obj\Debug\netcoreapp2.0\dd.csprojResolveAssemblyReference.cache
+E:\Laba-3\dd\dd\obj\Debug\netcoreapp2.0\dd.csproj.CoreCompileInputs.cache
+E:\Laba-3\dd\dd\obj\Debug\netcoreapp2.0\dd.AssemblyInfoInputs.cache
+E:\Laba-3\dd\dd\obj\Debug\netcoreapp2.0\dd.AssemblyInfo.cs
+E:\Laba-3\dd\dd\obj\Debug\netcoreapp2.0\dd.dll
+E:\Laba-3\dd\dd\obj\Debug\netcoreapp2.0\dd.pdb
