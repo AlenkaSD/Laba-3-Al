@@ -15,7 +15,7 @@ namespace lab4
             var assembly = Assembly.GetExecutingAssembly();
             var fileVersionInfo = FileVersionInfo.GetVersionInfo(assembly.Location);
             var version = fileVersionInfo.ProductVersion;
-            const int a = 2;
+            const int a = 5;
             Console.WriteLine(version);
             Console.ReadLine();
 
